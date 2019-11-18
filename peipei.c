@@ -13,7 +13,7 @@ int IAbs(int x)
 //奇数か偶数かを表示する
 void Parity(int x)
 {
-    printf("%s", (x%2)? "奇数": "偶数");
+    printf("%s", (x%2)? "Odd": "Even");
 }
 
 void main(void)
