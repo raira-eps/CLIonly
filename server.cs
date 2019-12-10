@@ -1,6 +1,3 @@
-//C#でのデータベース接続
-//基本の実装例 (写し)
-
 using System.Configuration;
 using System.Data.SqlClient;
 

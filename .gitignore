@@ -2,4 +2,5 @@
 #ignore files#
 #============#
 *.exe
+.vscode
 [Ee]xe_folder/
